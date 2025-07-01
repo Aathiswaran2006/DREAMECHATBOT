@@ -53,4 +53,4 @@ All in a clean, minimal UI with zero distractions.
 ---
 
 🔗 Try it now!!!
-[Click here to try the chatbot](https://your-username.streamlit.app)
+[Click here to try the chatbot](https://dreamechatbot-wb4bdwmambgsd4iwnqfkbg.streamlit.app/)
